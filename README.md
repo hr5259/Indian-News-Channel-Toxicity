@@ -80,7 +80,7 @@ For running the code locally, once you have completed the steps above, just clon
 ## Roadmap
 
 - [x] Gather video IDs for prime-time debates.
-- [] Download the videos using the video ID and [YoutubeDL](https://github.com/ytdl-org/youtube-dl).
+- [ ] Download the videos using the video ID and [YoutubeDL](https://github.com/ytdl-org/youtube-dl).
 - [ ] Transcribe the videos to text using Whisper API. 
 - [ ] Perform initial analysis on the data gathered.
 - [ ] Use Large Language Models to detect toxicity.
